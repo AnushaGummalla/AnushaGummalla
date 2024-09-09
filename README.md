@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **UFT, Selenium JAVA, API Testing, Frameworks like BDD, TESTNG**
 
-- 🤝 I’m looking for help with **Automation Framework**
+- 🤝 I’m looking for help with **Automation Tester**
 
 - 📫 How to reach me **anusha.gummalla.478@gmail.com**
 
